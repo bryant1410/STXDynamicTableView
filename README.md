@@ -78,7 +78,7 @@ view](http://engineering.2359media.net/blog/2014/04/16/rebuilding-instagram-feed
 `STXDynamicTableView` is simply a reusable code that you can use in your own project for any purpose as outlined in the LICENSE file. It's not a fully-fledged library, although we're taking steps to go there as time allows.
 
 ___
-##Feedback
+## Feedback
 We'd love to hear feedback. Create Github issues, pull requests, or hit us up on [Twitter](http://twitter.com/2359eng).
 
 ---
